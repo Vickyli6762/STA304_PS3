@@ -1,0 +1,449 @@
+income,age_group,gender,finish_college,racial_group,n
+"125,000 to 250,000",19-24,Female,0,American Indian or Alaska Native,618
+"125,000 to 250,000",19-24,Female,0,Black/African American/Negro,5480
+"125,000 to 250,000",19-24,Female,0,Chinese,827
+"125,000 to 250,000",19-24,Female,0,Japanese,125
+"125,000 to 250,000",19-24,Female,0,Other Asian or Pacific Islander,3729
+"125,000 to 250,000",19-24,Female,0,Some other race,6617
+"125,000 to 250,000",19-24,Female,0,White,57847
+"125,000 to 250,000",19-24,Female,1,American Indian or Alaska Native,51
+"125,000 to 250,000",19-24,Female,1,Black/African American/Negro,1114
+"125,000 to 250,000",19-24,Female,1,Chinese,510
+"125,000 to 250,000",19-24,Female,1,Japanese,54
+"125,000 to 250,000",19-24,Female,1,Other Asian or Pacific Islander,1362
+"125,000 to 250,000",19-24,Female,1,Some other race,972
+"125,000 to 250,000",19-24,Female,1,White,13194
+"125,000 to 250,000",19-24,Male,0,American Indian or Alaska Native,856
+"125,000 to 250,000",19-24,Male,0,Black/African American/Negro,6625
+"125,000 to 250,000",19-24,Male,0,Chinese,835
+"125,000 to 250,000",19-24,Male,0,Japanese,167
+"125,000 to 250,000",19-24,Male,0,Other Asian or Pacific Islander,4621
+"125,000 to 250,000",19-24,Male,0,Some other race,7915
+"125,000 to 250,000",19-24,Male,0,White,76540
+"125,000 to 250,000",19-24,Male,1,American Indian or Alaska Native,45
+"125,000 to 250,000",19-24,Male,1,Black/African American/Negro,630
+"125,000 to 250,000",19-24,Male,1,Chinese,409
+"125,000 to 250,000",19-24,Male,1,Japanese,40
+"125,000 to 250,000",19-24,Male,1,Other Asian or Pacific Islander,1223
+"125,000 to 250,000",19-24,Male,1,Some other race,633
+"125,000 to 250,000",19-24,Male,1,White,10394
+"125,000 to 250,000",25-44,Female,0,American Indian or Alaska Native,1316
+"125,000 to 250,000",25-44,Female,0,Black/African American/Negro,9178
+"125,000 to 250,000",25-44,Female,0,Chinese,1451
+"125,000 to 250,000",25-44,Female,0,Japanese,399
+"125,000 to 250,000",25-44,Female,0,Other Asian or Pacific Islander,7550
+"125,000 to 250,000",25-44,Female,0,Some other race,10446
+"125,000 to 250,000",25-44,Female,0,White,96717
+"125,000 to 250,000",25-44,Female,1,American Indian or Alaska Native,679
+"125,000 to 250,000",25-44,Female,1,Black/African American/Negro,12829
+"125,000 to 250,000",25-44,Female,1,Chinese,8728
+"125,000 to 250,000",25-44,Female,1,Japanese,1205
+"125,000 to 250,000",25-44,Female,1,Other Asian or Pacific Islander,26263
+"125,000 to 250,000",25-44,Female,1,Some other race,10230
+"125,000 to 250,000",25-44,Female,1,White,201120
+"125,000 to 250,000",25-44,Male,0,American Indian or Alaska Native,1588
+"125,000 to 250,000",25-44,Male,0,Black/African American/Negro,12214
+"125,000 to 250,000",25-44,Male,0,Chinese,1291
+"125,000 to 250,000",25-44,Male,0,Japanese,254
+"125,000 to 250,000",25-44,Male,0,Other Asian or Pacific Islander,7314
+"125,000 to 250,000",25-44,Male,0,Some other race,12892
+"125,000 to 250,000",25-44,Male,0,White,124878
+"125,000 to 250,000",25-44,Male,1,American Indian or Alaska Native,509
+"125,000 to 250,000",25-44,Male,1,Black/African American/Negro,8940
+"125,000 to 250,000",25-44,Male,1,Chinese,7056
+"125,000 to 250,000",25-44,Male,1,Japanese,806
+"125,000 to 250,000",25-44,Male,1,Other Asian or Pacific Islander,22023
+"125,000 to 250,000",25-44,Male,1,Some other race,7969
+"125,000 to 250,000",25-44,Male,1,White,165674
+"125,000 to 250,000",45-65,Female,0,American Indian or Alaska Native,1777
+"125,000 to 250,000",45-65,Female,0,Black/African American/Negro,15580
+"125,000 to 250,000",45-65,Female,0,Chinese,3739
+"125,000 to 250,000",45-65,Female,0,Japanese,954
+"125,000 to 250,000",45-65,Female,0,Other Asian or Pacific Islander,11233
+"125,000 to 250,000",45-65,Female,0,Some other race,11179
+"125,000 to 250,000",45-65,Female,0,White,214324
+"125,000 to 250,000",45-65,Female,1,American Indian or Alaska Native,870
+"125,000 to 250,000",45-65,Female,1,Black/African American/Negro,15879
+"125,000 to 250,000",45-65,Female,1,Chinese,6904
+"125,000 to 250,000",45-65,Female,1,Japanese,1772
+"125,000 to 250,000",45-65,Female,1,Other Asian or Pacific Islander,15114
+"125,000 to 250,000",45-65,Female,1,Some other race,5989
+"125,000 to 250,000",45-65,Female,1,White,232479
+"125,000 to 250,000",45-65,Male,0,American Indian or Alaska Native,1872
+"125,000 to 250,000",45-65,Male,0,Black/African American/Negro,17712
+"125,000 to 250,000",45-65,Male,0,Chinese,2356
+"125,000 to 250,000",45-65,Male,0,Japanese,692
+"125,000 to 250,000",45-65,Male,0,Other Asian or Pacific Islander,8437
+"125,000 to 250,000",45-65,Male,0,Some other race,11270
+"125,000 to 250,000",45-65,Male,0,White,218892
+"125,000 to 250,000",45-65,Male,1,American Indian or Alaska Native,725
+"125,000 to 250,000",45-65,Male,1,Black/African American/Negro,12353
+"125,000 to 250,000",45-65,Male,1,Chinese,6800
+"125,000 to 250,000",45-65,Male,1,Japanese,1498
+"125,000 to 250,000",45-65,Male,1,Other Asian or Pacific Islander,14655
+"125,000 to 250,000",45-65,Male,1,Some other race,5424
+"125,000 to 250,000",45-65,Male,1,White,234316
+"125,000 to 250,000",older than 65,Female,0,American Indian or Alaska Native,1380
+"125,000 to 250,000",older than 65,Female,0,Black/African American/Negro,13887
+"125,000 to 250,000",older than 65,Female,0,Chinese,4910
+"125,000 to 250,000",older than 65,Female,0,Japanese,1078
+"125,000 to 250,000",older than 65,Female,0,Other Asian or Pacific Islander,15196
+"125,000 to 250,000",older than 65,Female,0,Some other race,16875
+"125,000 to 250,000",older than 65,Female,0,White,190419
+"125,000 to 250,000",older than 65,Female,1,American Indian or Alaska Native,184
+"125,000 to 250,000",older than 65,Female,1,Black/African American/Negro,4118
+"125,000 to 250,000",older than 65,Female,1,Chinese,1403
+"125,000 to 250,000",older than 65,Female,1,Japanese,607
+"125,000 to 250,000",older than 65,Female,1,Other Asian or Pacific Islander,3777
+"125,000 to 250,000",older than 65,Female,1,Some other race,853
+"125,000 to 250,000",older than 65,Female,1,White,67141
+"125,000 to 250,000",older than 65,Male,0,American Indian or Alaska Native,1418
+"125,000 to 250,000",older than 65,Male,0,Black/African American/Negro,13381
+"125,000 to 250,000",older than 65,Male,0,Chinese,3961
+"125,000 to 250,000",older than 65,Male,0,Japanese,758
+"125,000 to 250,000",older than 65,Male,0,Other Asian or Pacific Islander,13422
+"125,000 to 250,000",older than 65,Male,0,Some other race,16745
+"125,000 to 250,000",older than 65,Male,0,White,179596
+"125,000 to 250,000",older than 65,Male,1,American Indian or Alaska Native,242
+"125,000 to 250,000",older than 65,Male,1,Black/African American/Negro,3971
+"125,000 to 250,000",older than 65,Male,1,Chinese,1884
+"125,000 to 250,000",older than 65,Male,1,Japanese,625
+"125,000 to 250,000",older than 65,Male,1,Other Asian or Pacific Islander,4287
+"125,000 to 250,000",older than 65,Male,1,Some other race,1170
+"125,000 to 250,000",older than 65,Male,1,White,100393
+"75,000 to 125,000",19-24,Female,0,American Indian or Alaska Native,4850
+"75,000 to 125,000",19-24,Female,0,Black/African American/Negro,36604
+"75,000 to 125,000",19-24,Female,0,Chinese,2460
+"75,000 to 125,000",19-24,Female,0,Japanese,202
+"75,000 to 125,000",19-24,Female,0,Other Asian or Pacific Islander,10641
+"75,000 to 125,000",19-24,Female,0,Some other race,35096
+"75,000 to 125,000",19-24,Female,0,White,207422
+"75,000 to 125,000",19-24,Female,1,American Indian or Alaska Native,173
+"75,000 to 125,000",19-24,Female,1,Black/African American/Negro,3736
+"75,000 to 125,000",19-24,Female,1,Chinese,1585
+"75,000 to 125,000",19-24,Female,1,Japanese,110
+"75,000 to 125,000",19-24,Female,1,Other Asian or Pacific Islander,3173
+"75,000 to 125,000",19-24,Female,1,Some other race,3408
+"75,000 to 125,000",19-24,Female,1,White,40109
+"75,000 to 125,000",19-24,Male,0,American Indian or Alaska Native,5063
+"75,000 to 125,000",19-24,Male,0,Black/African American/Negro,39257
+"75,000 to 125,000",19-24,Male,0,Chinese,2720
+"75,000 to 125,000",19-24,Male,0,Japanese,277
+"75,000 to 125,000",19-24,Male,0,Other Asian or Pacific Islander,12198
+"75,000 to 125,000",19-24,Male,0,Some other race,39308
+"75,000 to 125,000",19-24,Male,0,White,237913
+"75,000 to 125,000",19-24,Male,1,American Indian or Alaska Native,124
+"75,000 to 125,000",19-24,Male,1,Black/African American/Negro,2134
+"75,000 to 125,000",19-24,Male,1,Chinese,1360
+"75,000 to 125,000",19-24,Male,1,Japanese,78
+"75,000 to 125,000",19-24,Male,1,Other Asian or Pacific Islander,2507
+"75,000 to 125,000",19-24,Male,1,Some other race,2246
+"75,000 to 125,000",19-24,Male,1,White,27355
+"75,000 to 125,000",25-44,Female,0,American Indian or Alaska Native,12437
+"75,000 to 125,000",25-44,Female,0,Black/African American/Negro,93735
+"75,000 to 125,000",25-44,Female,0,Chinese,6335
+"75,000 to 125,000",25-44,Female,0,Japanese,1364
+"75,000 to 125,000",25-44,Female,0,Other Asian or Pacific Islander,28746
+"75,000 to 125,000",25-44,Female,0,Some other race,80938
+"75,000 to 125,000",25-44,Female,0,White,612185
+"75,000 to 125,000",25-44,Female,1,American Indian or Alaska Native,2673
+"75,000 to 125,000",25-44,Female,1,Black/African American/Negro,45645
+"75,000 to 125,000",25-44,Female,1,Chinese,12250
+"75,000 to 125,000",25-44,Female,1,Japanese,1994
+"75,000 to 125,000",25-44,Female,1,Other Asian or Pacific Islander,35584
+"75,000 to 125,000",25-44,Female,1,Some other race,26761
+"75,000 to 125,000",25-44,Female,1,White,409090
+"75,000 to 125,000",25-44,Male,0,American Indian or Alaska Native,12790
+"75,000 to 125,000",25-44,Male,0,Black/African American/Negro,92799
+"75,000 to 125,000",25-44,Male,0,Chinese,5854
+"75,000 to 125,000",25-44,Male,0,Japanese,843
+"75,000 to 125,000",25-44,Male,0,Other Asian or Pacific Islander,25252
+"75,000 to 125,000",25-44,Male,0,Some other race,88270
+"75,000 to 125,000",25-44,Male,0,White,706648
+"75,000 to 125,000",25-44,Male,1,American Indian or Alaska Native,1730
+"75,000 to 125,000",25-44,Male,1,Black/African American/Negro,25998
+"75,000 to 125,000",25-44,Male,1,Chinese,10513
+"75,000 to 125,000",25-44,Male,1,Japanese,1571
+"75,000 to 125,000",25-44,Male,1,Other Asian or Pacific Islander,31550
+"75,000 to 125,000",25-44,Male,1,Some other race,19805
+"75,000 to 125,000",25-44,Male,1,White,317170
+"75,000 to 125,000",45-65,Female,0,American Indian or Alaska Native,13719
+"75,000 to 125,000",45-65,Female,0,Black/African American/Negro,123154
+"75,000 to 125,000",45-65,Female,0,Chinese,12090
+"75,000 to 125,000",45-65,Female,0,Japanese,2328
+"75,000 to 125,000",45-65,Female,0,Other Asian or Pacific Islander,33804
+"75,000 to 125,000",45-65,Female,0,Some other race,63199
+"75,000 to 125,000",45-65,Female,0,White,919811
+"75,000 to 125,000",45-65,Female,1,American Indian or Alaska Native,2512
+"75,000 to 125,000",45-65,Female,1,Black/African American/Negro,40204
+"75,000 to 125,000",45-65,Female,1,Chinese,6806
+"75,000 to 125,000",45-65,Female,1,Japanese,2130
+"75,000 to 125,000",45-65,Female,1,Other Asian or Pacific Islander,18393
+"75,000 to 125,000",45-65,Female,1,Some other race,11848
+"75,000 to 125,000",45-65,Female,1,White,330351
+"75,000 to 125,000",45-65,Male,0,American Indian or Alaska Native,12694
+"75,000 to 125,000",45-65,Male,0,Black/African American/Negro,104515
+"75,000 to 125,000",45-65,Male,0,Chinese,8964
+"75,000 to 125,000",45-65,Male,0,Japanese,1625
+"75,000 to 125,000",45-65,Male,0,Other Asian or Pacific Islander,26978
+"75,000 to 125,000",45-65,Male,0,Some other race,61908
+"75,000 to 125,000",45-65,Male,0,White,888270
+"75,000 to 125,000",45-65,Male,1,American Indian or Alaska Native,1618
+"75,000 to 125,000",45-65,Male,1,Black/African American/Negro,21687
+"75,000 to 125,000",45-65,Male,1,Chinese,5718
+"75,000 to 125,000",45-65,Male,1,Japanese,1630
+"75,000 to 125,000",45-65,Male,1,Other Asian or Pacific Islander,16026
+"75,000 to 125,000",45-65,Male,1,Some other race,8955
+"75,000 to 125,000",45-65,Male,1,White,260300
+"75,000 to 125,000",older than 65,Female,0,American Indian or Alaska Native,13819
+"75,000 to 125,000",older than 65,Female,0,Black/African American/Negro,115941
+"75,000 to 125,000",older than 65,Female,0,Chinese,9986
+"75,000 to 125,000",older than 65,Female,0,Japanese,4464
+"75,000 to 125,000",older than 65,Female,0,Other Asian or Pacific Islander,32030
+"75,000 to 125,000",older than 65,Female,0,Some other race,79880
+"75,000 to 125,000",older than 65,Female,0,White,1102434
+"75,000 to 125,000",older than 65,Female,1,American Indian or Alaska Native,973
+"75,000 to 125,000",older than 65,Female,1,Black/African American/Negro,18319
+"75,000 to 125,000",older than 65,Female,1,Chinese,2765
+"75,000 to 125,000",older than 65,Female,1,Japanese,1514
+"75,000 to 125,000",older than 65,Female,1,Other Asian or Pacific Islander,7945
+"75,000 to 125,000",older than 65,Female,1,Some other race,3394
+"75,000 to 125,000",older than 65,Female,1,White,238799
+"75,000 to 125,000",older than 65,Male,0,American Indian or Alaska Native,12864
+"75,000 to 125,000",older than 65,Male,0,Black/African American/Negro,100104
+"75,000 to 125,000",older than 65,Male,0,Chinese,8437
+"75,000 to 125,000",older than 65,Male,0,Japanese,2307
+"75,000 to 125,000",older than 65,Male,0,Other Asian or Pacific Islander,27517
+"75,000 to 125,000",older than 65,Male,0,Some other race,77431
+"75,000 to 125,000",older than 65,Male,0,White,993402
+"75,000 to 125,000",older than 65,Male,1,American Indian or Alaska Native,896
+"75,000 to 125,000",older than 65,Male,1,Black/African American/Negro,11474
+"75,000 to 125,000",older than 65,Male,1,Chinese,3398
+"75,000 to 125,000",older than 65,Male,1,Japanese,1326
+"75,000 to 125,000",older than 65,Male,1,Other Asian or Pacific Islander,8037
+"75,000 to 125,000",older than 65,Male,1,Some other race,3458
+"75,000 to 125,000",older than 65,Male,1,White,273243
+"above 250,000",19-24,Female,0,American Indian or Alaska Native,115
+"above 250,000",19-24,Female,0,Black/African American/Negro,739
+"above 250,000",19-24,Female,0,Chinese,306
+"above 250,000",19-24,Female,0,Japanese,41
+"above 250,000",19-24,Female,0,Other Asian or Pacific Islander,1026
+"above 250,000",19-24,Female,0,Some other race,1103
+"above 250,000",19-24,Female,0,White,13334
+"above 250,000",19-24,Female,1,American Indian or Alaska Native,11
+"above 250,000",19-24,Female,1,Black/African American/Negro,227
+"above 250,000",19-24,Female,1,Chinese,178
+"above 250,000",19-24,Female,1,Japanese,22
+"above 250,000",19-24,Female,1,Other Asian or Pacific Islander,464
+"above 250,000",19-24,Female,1,Some other race,270
+"above 250,000",19-24,Female,1,White,5260
+"above 250,000",19-24,Male,0,American Indian or Alaska Native,126
+"above 250,000",19-24,Male,0,Black/African American/Negro,913
+"above 250,000",19-24,Male,0,Chinese,234
+"above 250,000",19-24,Male,0,Japanese,52
+"above 250,000",19-24,Male,0,Other Asian or Pacific Islander,1123
+"above 250,000",19-24,Male,0,Some other race,1432
+"above 250,000",19-24,Male,0,White,17981
+"above 250,000",19-24,Male,1,American Indian or Alaska Native,15
+"above 250,000",19-24,Male,1,Black/African American/Negro,131
+"above 250,000",19-24,Male,1,Chinese,180
+"above 250,000",19-24,Male,1,Japanese,20
+"above 250,000",19-24,Male,1,Other Asian or Pacific Islander,451
+"above 250,000",19-24,Male,1,Some other race,233
+"above 250,000",19-24,Male,1,White,4374
+"above 250,000",25-44,Female,0,American Indian or Alaska Native,163
+"above 250,000",25-44,Female,0,Black/African American/Negro,1287
+"above 250,000",25-44,Female,0,Chinese,314
+"above 250,000",25-44,Female,0,Japanese,80
+"above 250,000",25-44,Female,0,Other Asian or Pacific Islander,1588
+"above 250,000",25-44,Female,0,Some other race,1432
+"above 250,000",25-44,Female,0,White,15367
+"above 250,000",25-44,Female,1,American Indian or Alaska Native,127
+"above 250,000",25-44,Female,1,Black/African American/Negro,2316
+"above 250,000",25-44,Female,1,Chinese,4232
+"above 250,000",25-44,Female,1,Japanese,399
+"above 250,000",25-44,Female,1,Other Asian or Pacific Islander,10496
+"above 250,000",25-44,Female,1,Some other race,2741
+"above 250,000",25-44,Female,1,White,62060
+"above 250,000",25-44,Male,0,American Indian or Alaska Native,173
+"above 250,000",25-44,Male,0,Black/African American/Negro,1705
+"above 250,000",25-44,Male,0,Chinese,257
+"above 250,000",25-44,Male,0,Japanese,56
+"above 250,000",25-44,Male,0,Other Asian or Pacific Islander,1402
+"above 250,000",25-44,Male,0,Some other race,1678
+"above 250,000",25-44,Male,0,White,18002
+"above 250,000",25-44,Male,1,American Indian or Alaska Native,113
+"above 250,000",25-44,Male,1,Black/African American/Negro,1843
+"above 250,000",25-44,Male,1,Chinese,3072
+"above 250,000",25-44,Male,1,Japanese,269
+"above 250,000",25-44,Male,1,Other Asian or Pacific Islander,8417
+"above 250,000",25-44,Male,1,Some other race,2082
+"above 250,000",25-44,Male,1,White,56382
+"above 250,000",45-65,Female,0,American Indian or Alaska Native,324
+"above 250,000",45-65,Female,0,Black/African American/Negro,2201
+"above 250,000",45-65,Female,0,Chinese,919
+"above 250,000",45-65,Female,0,Japanese,251
+"above 250,000",45-65,Female,0,Other Asian or Pacific Islander,2425
+"above 250,000",45-65,Female,0,Some other race,1760
+"above 250,000",45-65,Female,0,White,45337
+"above 250,000",45-65,Female,1,American Indian or Alaska Native,207
+"above 250,000",45-65,Female,1,Black/African American/Negro,3318
+"above 250,000",45-65,Female,1,Chinese,4089
+"above 250,000",45-65,Female,1,Japanese,861
+"above 250,000",45-65,Female,1,Other Asian or Pacific Islander,7319
+"above 250,000",45-65,Female,1,Some other race,2196
+"above 250,000",45-65,Female,1,White,108186
+"above 250,000",45-65,Male,0,American Indian or Alaska Native,326
+"above 250,000",45-65,Male,0,Black/African American/Negro,2241
+"above 250,000",45-65,Male,0,Chinese,460
+"above 250,000",45-65,Male,0,Japanese,128
+"above 250,000",45-65,Male,0,Other Asian or Pacific Islander,1615
+"above 250,000",45-65,Male,0,Some other race,1448
+"above 250,000",45-65,Male,0,White,37538
+"above 250,000",45-65,Male,1,American Indian or Alaska Native,231
+"above 250,000",45-65,Male,1,Black/African American/Negro,3377
+"above 250,000",45-65,Male,1,Chinese,3782
+"above 250,000",45-65,Male,1,Japanese,690
+"above 250,000",45-65,Male,1,Other Asian or Pacific Islander,7563
+"above 250,000",45-65,Male,1,Some other race,2168
+"above 250,000",45-65,Male,1,White,122212
+"above 250,000",older than 65,Female,0,American Indian or Alaska Native,265
+"above 250,000",older than 65,Female,0,Black/African American/Negro,2752
+"above 250,000",older than 65,Female,0,Chinese,2047
+"above 250,000",older than 65,Female,0,Japanese,345
+"above 250,000",older than 65,Female,0,Other Asian or Pacific Islander,5433
+"above 250,000",older than 65,Female,0,Some other race,5250
+"above 250,000",older than 65,Female,0,White,63446
+"above 250,000",older than 65,Female,1,American Indian or Alaska Native,49
+"above 250,000",older than 65,Female,1,Black/African American/Negro,862
+"above 250,000",older than 65,Female,1,Chinese,755
+"above 250,000",older than 65,Female,1,Japanese,215
+"above 250,000",older than 65,Female,1,Other Asian or Pacific Islander,1741
+"above 250,000",older than 65,Female,1,Some other race,333
+"above 250,000",older than 65,Female,1,White,30568
+"above 250,000",older than 65,Male,0,American Indian or Alaska Native,260
+"above 250,000",older than 65,Male,0,Black/African American/Negro,2474
+"above 250,000",older than 65,Male,0,Chinese,1786
+"above 250,000",older than 65,Male,0,Japanese,197
+"above 250,000",older than 65,Male,0,Other Asian or Pacific Islander,5075
+"above 250,000",older than 65,Male,0,Some other race,5406
+"above 250,000",older than 65,Male,0,White,56183
+"above 250,000",older than 65,Male,1,American Indian or Alaska Native,83
+"above 250,000",older than 65,Male,1,Black/African American/Negro,907
+"above 250,000",older than 65,Male,1,Chinese,886
+"above 250,000",older than 65,Male,1,Japanese,265
+"above 250,000",older than 65,Male,1,Other Asian or Pacific Islander,2266
+"above 250,000",older than 65,Male,1,Some other race,453
+"above 250,000",older than 65,Male,1,White,47728
+"Less than 25,000",19-24,Female,0,American Indian or Alaska Native,3026
+"Less than 25,000",19-24,Female,0,Black/African American/Negro,25158
+"Less than 25,000",19-24,Female,0,Chinese,2785
+"Less than 25,000",19-24,Female,0,Japanese,260
+"Less than 25,000",19-24,Female,0,Other Asian or Pacific Islander,5207
+"Less than 25,000",19-24,Female,0,Some other race,16278
+"Less than 25,000",19-24,Female,0,White,107622
+"Less than 25,000",19-24,Female,1,American Indian or Alaska Native,77
+"Less than 25,000",19-24,Female,1,Black/African American/Negro,1776
+"Less than 25,000",19-24,Female,1,Chinese,1925
+"Less than 25,000",19-24,Female,1,Japanese,82
+"Less than 25,000",19-24,Female,1,Other Asian or Pacific Islander,1796
+"Less than 25,000",19-24,Female,1,Some other race,1661
+"Less than 25,000",19-24,Female,1,White,19260
+"Less than 25,000",19-24,Male,0,American Indian or Alaska Native,2751
+"Less than 25,000",19-24,Male,0,Black/African American/Negro,20566
+"Less than 25,000",19-24,Male,0,Chinese,3163
+"Less than 25,000",19-24,Male,0,Japanese,218
+"Less than 25,000",19-24,Male,0,Other Asian or Pacific Islander,5298
+"Less than 25,000",19-24,Male,0,Some other race,14616
+"Less than 25,000",19-24,Male,0,White,97238
+"Less than 25,000",19-24,Male,1,American Indian or Alaska Native,71
+"Less than 25,000",19-24,Male,1,Black/African American/Negro,1054
+"Less than 25,000",19-24,Male,1,Chinese,1611
+"Less than 25,000",19-24,Male,1,Japanese,58
+"Less than 25,000",19-24,Male,1,Other Asian or Pacific Islander,2005
+"Less than 25,000",19-24,Male,1,Some other race,1089
+"Less than 25,000",19-24,Male,1,White,12669
+"Less than 25,000",25-44,Female,0,American Indian or Alaska Native,7091
+"Less than 25,000",25-44,Female,0,Black/African American/Negro,60731
+"Less than 25,000",25-44,Female,0,Chinese,2036
+"Less than 25,000",25-44,Female,0,Japanese,290
+"Less than 25,000",25-44,Female,0,Other Asian or Pacific Islander,6735
+"Less than 25,000",25-44,Female,0,Some other race,32892
+"Less than 25,000",25-44,Female,0,White,184164
+"Less than 25,000",25-44,Female,1,American Indian or Alaska Native,494
+"Less than 25,000",25-44,Female,1,Black/African American/Negro,6931
+"Less than 25,000",25-44,Female,1,Chinese,2973
+"Less than 25,000",25-44,Female,1,Japanese,284
+"Less than 25,000",25-44,Female,1,Other Asian or Pacific Islander,4910
+"Less than 25,000",25-44,Female,1,Some other race,4385
+"Less than 25,000",25-44,Female,1,White,39792
+"Less than 25,000",25-44,Male,0,American Indian or Alaska Native,6399
+"Less than 25,000",25-44,Male,0,Black/African American/Negro,36318
+"Less than 25,000",25-44,Male,0,Chinese,1720
+"Less than 25,000",25-44,Male,0,Japanese,178
+"Less than 25,000",25-44,Male,0,Other Asian or Pacific Islander,5675
+"Less than 25,000",25-44,Male,0,Some other race,28116
+"Less than 25,000",25-44,Male,0,White,157817
+"Less than 25,000",25-44,Male,1,American Indian or Alaska Native,290
+"Less than 25,000",25-44,Male,1,Black/African American/Negro,3902
+"Less than 25,000",25-44,Male,1,Chinese,2843
+"Less than 25,000",25-44,Male,1,Japanese,214
+"Less than 25,000",25-44,Male,1,Other Asian or Pacific Islander,4856
+"Less than 25,000",25-44,Male,1,Some other race,3261
+"Less than 25,000",25-44,Male,1,White,31891
+"Less than 25,000",45-65,Female,0,American Indian or Alaska Native,7598
+"Less than 25,000",45-65,Female,0,Black/African American/Negro,69001
+"Less than 25,000",45-65,Female,0,Chinese,3577
+"Less than 25,000",45-65,Female,0,Japanese,466
+"Less than 25,000",45-65,Female,0,Other Asian or Pacific Islander,7872
+"Less than 25,000",45-65,Female,0,Some other race,23145
+"Less than 25,000",45-65,Female,0,White,243622
+"Less than 25,000",45-65,Female,1,American Indian or Alaska Native,578
+"Less than 25,000",45-65,Female,1,Black/African American/Negro,6730
+"Less than 25,000",45-65,Female,1,Chinese,1295
+"Less than 25,000",45-65,Female,1,Japanese,242
+"Less than 25,000",45-65,Female,1,Other Asian or Pacific Islander,2518
+"Less than 25,000",45-65,Female,1,Some other race,2316
+"Less than 25,000",45-65,Female,1,White,40164
+"Less than 25,000",45-65,Male,0,American Indian or Alaska Native,6866
+"Less than 25,000",45-65,Male,0,Black/African American/Negro,48286
+"Less than 25,000",45-65,Male,0,Chinese,2304
+"Less than 25,000",45-65,Male,0,Japanese,317
+"Less than 25,000",45-65,Male,0,Other Asian or Pacific Islander,5549
+"Less than 25,000",45-65,Male,0,Some other race,18893
+"Less than 25,000",45-65,Male,0,White,205993
+"Less than 25,000",45-65,Male,1,American Indian or Alaska Native,333
+"Less than 25,000",45-65,Male,1,Black/African American/Negro,3727
+"Less than 25,000",45-65,Male,1,Chinese,967
+"Less than 25,000",45-65,Male,1,Japanese,188
+"Less than 25,000",45-65,Male,1,Other Asian or Pacific Islander,2017
+"Less than 25,000",45-65,Male,1,Some other race,1646
+"Less than 25,000",45-65,Male,1,White,32771
+"Less than 25,000",older than 65,Female,0,American Indian or Alaska Native,9236
+"Less than 25,000",older than 65,Female,0,Black/African American/Negro,87362
+"Less than 25,000",older than 65,Female,0,Chinese,4973
+"Less than 25,000",older than 65,Female,0,Japanese,1382
+"Less than 25,000",older than 65,Female,0,Other Asian or Pacific Islander,9966
+"Less than 25,000",older than 65,Female,0,Some other race,36341
+"Less than 25,000",older than 65,Female,0,White,432392
+"Less than 25,000",older than 65,Female,1,American Indian or Alaska Native,368
+"Less than 25,000",older than 65,Female,1,Black/African American/Negro,4852
+"Less than 25,000",older than 65,Female,1,Chinese,906
+"Less than 25,000",older than 65,Female,1,Japanese,213
+"Less than 25,000",older than 65,Female,1,Other Asian or Pacific Islander,2068
+"Less than 25,000",older than 65,Female,1,Some other race,1248
+"Less than 25,000",older than 65,Female,1,White,45919
+"Less than 25,000",older than 65,Male,0,American Indian or Alaska Native,7505
+"Less than 25,000",older than 65,Male,0,Black/African American/Negro,58769
+"Less than 25,000",older than 65,Male,0,Chinese,3559
+"Less than 25,000",older than 65,Male,0,Japanese,481
+"Less than 25,000",older than 65,Male,0,Other Asian or Pacific Islander,7181
+"Less than 25,000",older than 65,Male,0,Some other race,31470
+"Less than 25,000",older than 65,Male,0,White,264510
+"Less than 25,000",older than 65,Male,1,American Indian or Alaska Native,296
+"Less than 25,000",older than 65,Male,1,Black/African American/Negro,2506
+"Less than 25,000",older than 65,Male,1,Chinese,1084
+"Less than 25,000",older than 65,Male,1,Japanese,186
+"Less than 25,000",older than 65,Male,1,Other Asian or Pacific Islander,1741
+"Less than 25,000",older than 65,Male,1,Some other race,876
+"Less than 25,000",older than 65,Male,1,White,36828
